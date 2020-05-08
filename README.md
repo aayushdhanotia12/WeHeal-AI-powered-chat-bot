@@ -11,3 +11,4 @@ pip install -r requiremtns.txt
 *hit the bot_2.py file and your AI-CHATBOT will be up running.
 \\make sure that sentimental analysis folder is located in your NLP folder and all the mega files are in sentimental analysis  directory\\
 //
+https://mega.nz/folder/aK5lRZRS#wlUVHLsUJbz7f23tVWR5-w
