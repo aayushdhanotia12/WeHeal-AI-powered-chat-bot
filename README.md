@@ -9,4 +9,5 @@ We-heal is an Artificial intelligence powered Chat-bot for people who are suffer
 pip install -r requiremtns.txt
 #requirements: tensorflow,numpy, keras, gensim
 *hit the bot_2.py file and your AI-CHATBOT will be up running.
+\\make sure that sentimental analysis folder is located in your NLP folder and all the mega files are in sentimental analysis  directory\\
 //
