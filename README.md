@@ -6,13 +6,12 @@ In addition, We-heal leverages the USC ICT Virtual Human Toolkit, allowing the c
 With 1 in 4 of us in the world suffering from depression or anxiety at some point in their lives, the need for accessible and effective mental health support is more pressing than ever. By offering a compassionate and empathetic virtual companion, We-heal is making a meaningful contribution to improving the lives of individuals struggling with mental health issues.
 
 //
-*Open the mega repository and download all the file 
-*download the git repository files.
-*put all the files in a folder and add sentimental analysis folder too.
-*open terminal their and install -r requiremtns
-pip install -r requiremtns.txt
-#requirements: tensorflow,numpy, keras, gensim
-*hit the bot_2.py file and your AI-CHATBOT will be up running.
-\\make sure that sentimental analysis folder is located in your NLP folder and all the mega files are in sentimental analysis  directory\\
-//
+*Open the mega repository and download all the file <br/>
+*download the git repository files.<br/>
+*put all the files in a folder and add sentimental analysis folder too.<br/>
+*open terminal their and install -r requirements. <br/>
+pip install -r requiremtns.txt <br/>
+#requirements: tensorflow,numpy, keras, gensim <br/>
+*hit the bot_2.py file and your AI-CHATBOT will be up running. <br/>
+<b>Please make sure that sentimental analysis folder is located in your NLP folder and all the mega files are in sentimental analysis directory </b>
 https://mega.nz/folder/aK5lRZRS#wlUVHLsUJbz7f23tVWR5-w
